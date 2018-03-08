@@ -20,8 +20,6 @@
           <div class="collapse navbar-collapse" id="menu">
             <ul class="nav navbar-nav">
               <li><a href="index.php">HOME</a></li>
-             
-              <!-- <li><a href="servicos.php">Serviços</a></li> -->
               <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SOBRE NÓS<span class="caret"></span></a>
                   <ul class="dropdown-menu">

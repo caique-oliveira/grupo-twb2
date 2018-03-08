@@ -63,6 +63,9 @@ p.final-footer {
 .logo {
     height: 7em;
 }
+div#menu {
+    white-space: nowrap;
+}
 nav#navbar {
     background-color: #43434f;
 }
@@ -186,4 +189,14 @@ h3.titulo.titulo-servicos.text-uppercase {
 }
 .alt-auto {
         height: 43em;
-    }
+}
+.btn-full.btn-full-sm:hover {
+    background-color: red;
+    border-color: black;
+}
+.btn.btn-verm.dropdown-toggle:hover {
+    background-color: red;
+    border-color: black;
+}
+.en, .de, .it { display:none; } /* hide all elements with a language class */
+.en:lang(en), .de:lang(de), .it:lang(it) { display:block; } /* show those elements that match their language class */

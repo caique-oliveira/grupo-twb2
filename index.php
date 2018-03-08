@@ -43,7 +43,7 @@
       </div>
     </div>
     <div class="item">
-    <div class="fill parallax" style="background-image:url('imagens/banners/negocios.jpg');" alt="Faça Terapia Online"></div>
+    <div class="fill parallax" style="background-image:url('imagens/banners/negocios.jpg');" alt="Online"></div>
       <div class="carousel-caption banner-home">              
         <div class="">       
          <h3 class="titulo-banner"><b>Seu Futuro está na <br> <span>TWB</span></b>
